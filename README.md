@@ -62,4 +62,4 @@ A simple **Todo Application** built using HTML, CSS, and JavaScript. This projec
 - Sort tasks based on priority or due dates.
 - Introduce APIs for backend integration to support multiple users.
 
----
+
